@@ -8,4 +8,5 @@ new dev
 hello.py
 new hello.py
 fixbug
+other partner
 the other
